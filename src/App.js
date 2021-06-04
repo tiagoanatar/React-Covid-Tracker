@@ -1,8 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Cards, CountryPicker, Chart } from './components';
 import styles from './App.module.css';
-
-import image from './images/image.png';
+import image from './images/covid-logo.jpg';
 
 const App = () => {
 
